@@ -1,0 +1,14 @@
+body{
+
+    background-color: lightsteelblue;
+    position:relative;
+    text-align: center;
+}
+
+#whoseTurn{
+    font-size: large;
+
+}
+#win{
+    font-size: larger;
+}
